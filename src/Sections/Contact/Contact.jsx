@@ -20,7 +20,7 @@ const CARD_ACCENT = {
 
 const SOCIAL_CONFIG = [
   { key: "gh", icon: "ti-brand-github",    label: "GitHub",    url: "https://github.com/DeveloperMujtaba22" },
-  { key: "li", icon: "ti-brand-linkedin",  label: "LinkedIn",  url: "https://www.linkedin.com/in/mujtaba-b50000363/" },
+  { key: "li", icon: "ti-brand-linkedin",  label: "LinkedIn",  url: "https://www.linkedin.com/in/mujtaba-rasheed-94302330b/" },
   { key: "ig", icon: "ti-brand-instagram", label: "Instagram", url: "https://www.instagram.com/mujtabarasheed/?next=" },
 ];
 

@@ -71,6 +71,7 @@ const Project = () => {
             my <span className="proj-highlight">Projects</span>
           </h2>
         </div>
+    
        
       </div>
 
