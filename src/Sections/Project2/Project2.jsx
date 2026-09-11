@@ -71,7 +71,10 @@ const Project = () => {
             my <span className="proj-highlight">Projects</span>
           </h2>
         </div>
-    
+
+      <div className="proj-header-right">
+  <a href="/projects">View all</a>
+</div>
        
       </div>
 
