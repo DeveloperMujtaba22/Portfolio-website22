@@ -73,7 +73,7 @@ const Project = () => {
         </div>
 
       <div className="proj-header-right">
-  <a href="/projects">View all</a>
+  <a target='_blank' href="https://www.fiverr.com/mujtabarashe618">View all</a>
 </div>
        
       </div>
