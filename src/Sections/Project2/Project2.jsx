@@ -16,7 +16,7 @@ const projects = [
     desc: 'NexaPhone — Shop the latest smartphones & accessories online. Best prices, fast delivery, and easy returns. Find your perfect phone today.',
     image: '/assets/nexaphone.png',
     tags: ['#react', '#ecommerce', '#tailwind'],
-    link: 'https://nexaphone-website-latest.vercel.app/contact',
+    link: 'https://nexaphone-website-latest.vercel.app/',
   },
   {
     id: 3,
